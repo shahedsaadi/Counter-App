@@ -9,7 +9,7 @@ It's a simple counter application. It features a displayed number with two butto
 
 # To Try It: https://ylxqj.csb.app/
 
-# To Run The Project:
+# To Run The Project(locally):
 - Clone the repository (git clone https://github.com/shahedsaadi/Counter-App.git).
 - Open the folder(repository) inside Visual Studio or any source-code editor.
 - Open Terminal > cd your-destination-folder.
